@@ -1,0 +1,1 @@
+{"timestamp":"2024-04-30T12:00:00Z","author":"@ai_insider","post_text":"What are you using for offline embeddings?","reply_text":"I've had good luck with TF-IDF for quick offline prototypes before moving to embeddings.","option_type":"Short","impressions":45}
